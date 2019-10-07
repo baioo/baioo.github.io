@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "Salome";
+    src: url(/Resource/Salome/Salome.otf) format('truetype');
+  }
+
+body{
+    background-color: #eaeaea;
+}
+
+h1 {
+    margin: 0px auto;
+    max-width: 800px;
+    padding: 40px;
+    text-align: center;
+    font-size: 60px;
+    font-family: "Salome";
+    line-height: 1.3em;
+    color:#283725;
+}
+
+span {
+    color: #9e8312;
+    font-family: "Salome";
+    margin: 0 auto;
+    letter-spacing: 0.1em;
+
+}
+
+p{
+
+}
